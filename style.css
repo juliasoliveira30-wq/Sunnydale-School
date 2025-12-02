@@ -1,0 +1,44 @@
+/* Fonte geral */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Título principal */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1E90FF;
+}
+
+/* Subtítulos */
+#missao {
+  color: #32CD32;
+}
+
+#upcoming-events {
+  color: #FFA07A;
+  background-color: #FFFFE0; /* fundo conforme instrução */
+}
+
+#contato {
+  color: #20B2AA;
+}
+
+/* Datas dos eventos (span) */
+.date {
+  font-weight: bold;
+  color: red;
+}
+
+/* Classe para eventos ao ar livre */
+.outdoor {
+  background-color: #AFEEEE;
+  padding: 5px;
+  border: 1px solid #B0E0E6;
+}
+
+/* Div de contato */
+.section {
+  background-color: #f8f3f3;
+  padding: 10px;
+}
